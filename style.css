@@ -1,0 +1,52 @@
+body {
+  /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
+  font-family: 'Manrope', sans-serif;
+  font-size: 1em;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+em {
+  color: #a5b4fc;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 3.5em;
+  color: #a5b4fc;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 1.1em;
+}
+.entete {
+  background-color: aliceblue;
+  color:#242424
+}
+.basdepage {
+  background-color: aliceblue;
+  color:#242424
+}
+h1 {
+background-color: #1F2039;
+color: #F9F8FF;
+}
+p  {
+  background-color: #1F2039;
+  color : #F9F8FF;
+  }
+  ul  {
+    background-color: #1F2039;
+    color : #F9F8FF;
+    }
+    .degrade {
+      background: linear-gradient(#8e86b5, #acaeed);
+      color: white;
+    }
+    .degrade a{
+      color:white
+    }
